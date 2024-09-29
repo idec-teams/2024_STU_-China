@@ -40,4 +40,8 @@ As a result, we isolated a Clo-DPEase mutant, Phe246Tyr (Clo-DPEasemut), which e
 <center>Fig.5 Establishment and optimization of PANCED for directed evolution of DPEase.</center>
 
 
+![Fig.6](../img/fig6.png)
+
+<center>Fig.6 Enzyme performance comparison of Clo-DPEase WT and MUT.</center>
+
 
