@@ -1,4 +1,4 @@
 # Lab notebooks
 
 
-[click me]([https://www.baidu.com](https://idec-teams.github.io/2024_STU_-China/img/idec-note-STU-China.pdf))
+[click me](https://idec-teams.github.io/2024_STU_-China/img/idec-note-STU-China.pdf)
