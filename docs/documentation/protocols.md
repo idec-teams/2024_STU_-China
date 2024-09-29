@@ -27,13 +27,28 @@ $$
 $$
 
 
-
 True positives (TP) represent the number of EMs (Extreme microorganisms) correctly predicted as EMs; false positives (FP) are the number of non-EMs incorrectly predicted as EMs; true negatives (TN) are the number of non-EMs correctly predicted as non-EMs; and false negatives (FN) are the number of EMs incorrectly predicted as non-EMs.
 
 ## 4. Extreme Microbial Screening
 Using the iExtreme model to predict extreme microorganisms from an public microbial database, a total of 121657 data were collected from NCBI, GOMC, ProPan, Progenome, UBA and P10K Databases. 
 
+## 5. Plasmid construction.
+1. Strains and Plasmids: The strains, plasmids, and primers：  The E. coli strains S1030 (#105063), MP4 (#69652), and pJC175e (#79219) were purchased from Addgene. The E. coli BL21(DE3) and DH5α strains were purchased from TransGene, and the M13 phage was obtained from Zymostar.
+2. Gene Synthesis: The target genes, including psiR, PSPpsiO, gIII, GFP11-gIII, DPEases, α-amylases, GFP1-10, and T7 RNAP
+3. Gene Amplification:The genes were amplified using Hieff Canace® Plus High-Fidelity DNA Polymerase.
+4. Plasmid Construction: The amplified genes were inserted into the appropriate plasmids  using the Hieff Clone® Plus One Step Cloning Kit. This kit facilitated the seamless cloning of the target DNA fragments into the desired plasmids.
 
 
+## 6. Construction of primary M13 phage. 
+The recombinant M13 bacteriophages were constructed as previous reported. Gene Amplification: DNA fragments of Clo-DPEase were amplified using synthesized genes as templates.
+
+M13 Genome Preparation: The M13 genome without the gIII gene was amplified using the M13 phage as a template.
+Cloning: The Clo-DPEase fragments were cloned into the M13 genome using the Multi One Step Cloning Kit (Yeasen Biotechnology).
+
+Transformation and Packaging: The cloned M13 phage genome was transformed into E. coli S1030 containing the pJC175e plasmid to package the recombinant M13 phages.
+Phage Titer Measurement: The phage titer was determined using the bilayer agarose plate method.
+
+## 7. Mutagenesis
+The enzymatic mutagenesis was performed according to previous report. For ARTP mutagenesis, a condition of 120 W and 45 s was utilized; for microwave mutagenesis, a condition of 400 W and 60 s on ice was utilized; for UV mutagenesis, a 254 nm condition of 30 W and 300 s was utilized. The phages were infected the E. coli S1030 containing the pJC175e plasmid and restored in 2 × YT medium (20 g/L tryptone, 10 g/L yeast extract and 10 g/L NaCl) at 37 °C for 6 h. After centrifuge at the speed of 3000 × g for 5 min, the supernatant was collected and used to determine the titer of phage.
 
 
