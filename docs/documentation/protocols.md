@@ -8,17 +8,25 @@ Construct three prediction models named iExtreme-T, iExtreme-P and iExtreme-S se
 
 ## 3. Evaluation metrics of models
 To evaluate the predictive ability of the model, the following metrics are used：accuracy (ACC), precision (Prec), Recall (Rec) and F1 Score (F1) as in Eqs. (1)-(4)
+
+
 $$
 (1)~~ACC = \frac{TP+TN}{TP+TN+FP+FN}
 $$
 
 $$
-(2)~~Rec = \frac{TP}{TP+FP}
+(2)~~Prec = \frac{TP}{TP+FP}
 $$
 
 $$
-(3)~~F1 = 2 \times \frac{Prec \times Rec}{Prec+Rec} 
+(3)~~Rec = \frac{TP}{TP+FN}
 $$
+
+$$
+(4)~~F1 = 2 \times \frac{Prec \times Rec}{Prec+Rec}
+$$
+
+
 
 True positives (TP) represent the number of EMs (Extreme microorganisms) correctly predicted as EMs; false positives (FP) are the number of non-EMs incorrectly predicted as EMs; true negatives (TN) are the number of non-EMs correctly predicted as non-EMs; and false negatives (FN) are the number of EMs incorrectly predicted as non-EMs.
 
