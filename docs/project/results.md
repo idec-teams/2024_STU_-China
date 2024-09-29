@@ -2,8 +2,10 @@
 ## 1. Establishment of genome and survival condition datasets for extremophiles
 We collected and categorized a dataset of 1,030 extremophiles from various genomic databases, including halophiles, thermophiles, and pH-philes. Analysis showed that halophiles had a higher proportion of acidic amino acids compared to basic amino acids, while thermophiles and pH-philes exhibited the opposite trend. Additionally, thermophiles and pH-philes had a higher prevalence of aromatic amino acids. Extremophiles generally had smaller genome and proteome sizes, with thermophiles displaying more compact genomic functionality. Differences in tRNA minimum free energy and codon usage preferences across the extremophile types were also observed, providing valuable insights for the development of predictive models for extrem.
 
-figure ![Fig.1 Extremophilic genome data collection and analysis.](../img/fig1.png)
-OKFig.1 Extremophilic genome data collection and analysis.
+![Fig.1 Extremophilic genome data collection and analysis.](../img/fig1.png)
+
+<center>Fig.1 Extremophilic genome data collection and analysis.</center>
+
                                                               
 ## 2.Establishment and refinement of the iExtreme model for extremophile identification
 The iExtreme model was successfully developed by integrating 1,030 extremophilic genomes with non-extremophilic genomes to predict extremophiles and their optimal living conditions. Using SVM classification and k-mer feature extraction, the model achieved high prediction accuracies of 0.97 to 0.99 for halophiles, thermophiles, and pH-philes. Additionally, iExtreme re-predicted missing data, identifying 129 previously overlooked extremophiles. In total, the model identified 356 halophiles, 688 thermophiles, and 168 pH-philes, emphasizing the role of extreme environments in their evolution. To improve accessibility, an interactive website was created where users can input genomic data, and the model automatically predicts the species' optimal living conditions.
