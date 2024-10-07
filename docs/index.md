@@ -9,3 +9,7 @@ In response, we developed iExtreme, a comprehensive database containing 1,030 ge
 
 
 <center><img src="./img/home.png"></img></center>
+
+---
+
+<center><img src="./img/Poster_STU_china-2024.png"></img></center>
