@@ -9,7 +9,7 @@
     Name: Wang Shuqi<br>
     Role: supervisor<br>
     Age: 46<br>
-    Degree: Marine Biology, Associate Professor
+    Degree: Ph.D., Associate Professor
 </center>
 
 
@@ -18,7 +18,7 @@
 </center>
 <center>
     Name: Li Ruixin<br>
-    Role: mentor<br>
+    Role: Ph.D., Mentor<br>
     Age: 31<br>
     Degree: Marine Biology, Lecturer
 </center>
