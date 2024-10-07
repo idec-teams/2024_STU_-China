@@ -3,7 +3,7 @@
 
 
 <center>
-    <img src="/img/wangShuqi.jpeg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/wangShuqi.jpeg" style="width:150px;"></img>
 </center>
 <center>
     Name: Wang Shuqi<br>
