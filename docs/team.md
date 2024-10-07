@@ -3,7 +3,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/wangShuqi.jpeg" style="width:150px;border:1px solid black;"></img>
+    <img src="/2024_STU_-China/img/wangShuqi.jpeg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: Wang Shuqi<br>
@@ -14,7 +14,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/liRuixin.jpeg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/liRuixin.jpeg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: Li Ruixin<br>
@@ -25,7 +25,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/lihua.jpg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/lihua.jpg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: Liu Lihua <br>
@@ -36,7 +36,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/leiwei.jpg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/leiwei.jpg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: Lei Wei<br>
@@ -47,7 +47,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/heRong.jpeg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/heRong.jpeg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: He Rong<br>
@@ -58,7 +58,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/xieJiaying.jpeg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/xieJiaying.jpeg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: Xie Jiaying<br>
@@ -69,7 +69,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/fangXiaojia.jpeg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/fangXiaojia.jpeg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: Fang Xiaojia<br>
@@ -80,7 +80,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/tangLihui.jpeg" alt="" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/tangLihui.jpeg" alt="" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: Tang Lihui<br>
@@ -91,7 +91,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/liuTan.jpeg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/liuTan.jpeg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: Liu Tan<br>
@@ -102,7 +102,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/liuJingwen.jpeg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/liuJingwen.jpeg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name: Liu Jingwen<br>
@@ -113,7 +113,7 @@
 
 
 <center>
-    <img src="/2024_STU_-China/img/liangLang.jpeg" style="width:150px;"></img>
+    <img src="/2024_STU_-China/img/liangLang.jpeg" style="width:150px;border:1px solid black;border-radius:50%;"></img>
 </center>
 <center>
     Name:Liang Lang<br>
