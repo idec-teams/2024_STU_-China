@@ -9,4 +9,4 @@ In response, we developed iExtreme, a comprehensive database containing 1,030 ge
 
 ![home](./img/home.png)
 
-<img src="./img/leiwei.jpg"></img>
+<center><img src="./img/leiwei.jpg"></img></center>
